@@ -23,6 +23,7 @@ cd Password-Compexity-Checker
 
 ```
 (e.g., password_checker.py).
+
 2.  Run the script using the command: 
 ```bash
 python3 password_checker.py
@@ -35,3 +36,9 @@ python3 password_checker.py
 
 The script defines a function assess_password_strength that takes a password as input and checks for the presence of different character types and the length of the password. It assigns a score based on these criteria and then categorizes the password strength as "Weak," "Moderate," or "Strong." It also generates feedback to inform the user about what makes their password strong or what they can do to improve it.
 
+## Perfect Password Example 
+ ```baah
+hFk6&@g5_jiGFt;9oDK369
+```
+ Length must not be short....
+ Use 8-9 character or above.
