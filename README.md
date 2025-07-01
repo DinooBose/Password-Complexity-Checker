@@ -23,13 +23,13 @@ cd Password-Compexity-Checker
 
 ```
 (e.g., password_checker.py).
-6.  Run the script using the command: 
+2.  Run the script using the command: 
 ```bash
 python3 password_checker.py
 ```
-7.  The tool will prompt you to enter a password. Type your password and press Enter.
-8.  The tool will display the password strength and provide feedback.
-9.  You can enter more passwords to check or type exit to quit.
+3.  The tool will prompt you to enter a password. Type your password and press Enter.
+4.  The tool will display the password strength and provide feedback.
+5.  You can enter more passwords to check or type exit to quit.
 
 ## How it Works
 
